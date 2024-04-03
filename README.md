@@ -1,12 +1,8 @@
-<h2 align="center">Hello World</h2>
+<h1 align="center">Hello World</h1>
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JandirNeto&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<p align="left">Hi 👋 I'm Jandir! A software engineering student.</p>
 
 ###
 
